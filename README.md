@@ -1,1 +1,2 @@
 # DDD_Architecture
+This project mainly constructs a project framework based on the DDD approach using JAVA programming language. People can use the project as a demo, You just need to split different models according to their business requirements. You also can use C# or other OOP language to build your DDD framework refer to this project. Because all of the basic and common components and project modules have been built already.
